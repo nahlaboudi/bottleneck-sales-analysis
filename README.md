@@ -98,7 +98,7 @@ Ces vérifications permettent de repérer les problèmes susceptibles d'affecter
 
 L'analyse de la distribution des prix permet d'étudier les écarts de prix entre les produits et d'identifier les valeurs atypiques (outliers).
 
-Distribution des prix par type de produit
+![Distribution des prix](distribution_prix.png)
 
 
 
@@ -126,7 +126,7 @@ Les prix sont dispersés différemment selon les catégories. Le graphique met e
 
 Ce graphique circulaire représente la répartition du chiffre d'affaires entre les différentes catégories de produits. Il a été réalisé avec Plotly à partir de la variable ca_par_article, regroupée selon product_type.
 
-
+![Répartition du chiffre d'affaires par type de produit](ca_par_produit.png)
 
 Principaux résultats
 
